@@ -1,0 +1,12 @@
+{
+  "name": "huskgi-app",
+  "displayName": "huskgi-app",
+  "expo": {
+    "name": "huskgi-app",
+    "slug": "huskgi-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
